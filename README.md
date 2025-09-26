@@ -67,7 +67,7 @@ I am a Software Engineering student passionate about technology, web & mobile de
 - 🔭 Working on innovative web applications and mobile development projects
 - 👯 Looking to collaborate on open source projects
 - 💬 Ask me about **PHP**, **Laravel**, **JavaScript**, **Python**, or **Mobile Development**
-- 📫 How to reach me: **[your-email@example.com](mailto:your-email@example.com)**
+- 📫 How to reach me: **[vikrialvapratama27@gmail.com](mailto:your-email@example.com)**
 - ⚡ Fun fact: I love turning coffee into code! ☕
 
 ---
